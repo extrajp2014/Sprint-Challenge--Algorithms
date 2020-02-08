@@ -12,7 +12,7 @@ c) O(n) because the recursive function call (n) time.
 ## Exercise II
 
 - Let the starting point equals to the middle position of n-story building.
-Test drop the egg at starting point:
+- Test drop the egg at starting point:
 - If the egg breaks, change the starting point to the bottom middle position of our tested starting point. Go back and repeat test drop.
 - If the egg does not break, change the starting point to the top middle position of our tested starting point. Go back and repeat test drop.
 - Repeat the process until we find the position where the egg first start to break.
