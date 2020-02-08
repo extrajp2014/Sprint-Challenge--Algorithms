@@ -6,7 +6,6 @@ a) O(n) because (n^3) outer loop divide by (n^2) inner variable expansion is (n)
 
 b) O(nlogn) because outer loop runs (n) time and inner loop run at log2 (n)
 
-
 c) O(n) because the recursive function call (n) time.
 
 ## Exercise II
